@@ -1,0 +1,77 @@
+{
+    "state": [{ 
+
+    "stateID" : "TX",
+    "stateData": "40% of Students"
+},
+{ 
+    "stateID" : "NE,MO,KS,IA,OK",
+    "stateData": "26% to 50% of Students"
+},
+{ 
+    "stateID" : "VT",
+    "stateData": "60% of Students"
+},
+{ 
+    "stateID" : "MI",
+    "stateData": "11% to 25% of Students"
+},
+{ 
+    "stateID" : "CO",
+    "stateData": "80% of Students"
+},
+{ 
+    "stateID" : "NC,SC",
+    "stateData": "26% to 50% of Students"
+},
+{ 
+    "stateID" : "VT",
+    "stateData": "60% of Students"
+},
+{ 
+    "stateID" : "AR",
+    "stateData": "50% of Students"
+},
+{ 
+    "stateID" : "CA",
+    "stateData": "45% of Students"
+},
+{ 
+    "stateID" : "KY,WV",
+    "stateData": "11% to 25% of Students"
+},
+{ 
+    "stateID" : "NJ",
+    "stateData": "90% of Students"
+},
+{ 
+    "stateID" : "WI",
+    "stateData": "11% to 25% of Students"
+},
+{ 
+    "stateID" : "AZ,NM",
+    "stateData": "26% to 50% of Students"
+},
+{ 
+    "stateID" : "OR,WA",
+    "stateData": "26% to 50% of Students"
+},
+{ 
+    "stateID" : "AK",
+    "stateData": "Less than 10% of Students"
+},
+{ 
+    "stateID" : "WY,ID,MT,UT,NV",
+    "stateData": "11% to 25% of Students"
+},
+{ 
+    "stateID" : "LA,AL,MS",
+    "stateData": "11% to 25% of Students"
+},
+{ 
+    "stateID" : "MD,DE",
+    "stateData": "81% to 90% of Students"
+}
+
+]
+}

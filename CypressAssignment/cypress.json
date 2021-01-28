@@ -1,0 +1,19 @@
+{
+  "baseUrl": "http://hobsons.com",
+  "integrationFolder": "cypress/integration",
+  "pluginsFile": "cypress/plugins",
+  "pageLoadTimeout": 12000,
+  "screenshotOnRunFailure": true,
+  "screenshotsFolder": "cypress/screenshots",
+  "supportFile": "cypress/support",
+  "taskTimeout": 6000,
+  "video": true,
+  "videoCompression": 32,
+  "videosFolder": "cypress/videos",
+  "videoUploadOnPasses": false,
+  "viewportHeight": 660,
+  "viewportWidth": 1024,
+  "watchForFileChanges": true,
+  "defaultCommandTimeout": 3000,
+  "chromeWebSecurity": false
+}
